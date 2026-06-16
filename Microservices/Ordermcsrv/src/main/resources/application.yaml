@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: Ordermcsrv
+
+server:
+  port: 8083

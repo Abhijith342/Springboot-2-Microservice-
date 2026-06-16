@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Microservices
+
+server:
+  port: 8084
+
